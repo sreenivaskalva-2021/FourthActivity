@@ -1,3 +1,3 @@
 # AfterPay FinTech Activity
-! [TestImage.jpg](/Images/TestImage.jpg)
+! [TestImage.jpg](/Image/TestImage.jpg)
 4th activity
